@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home / Splash -->
+  <url>
+    <loc>https://digitalisdesign.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://digitalisdesign.com/#about-section</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Services -->
+  <url>
+    <loc>https://digitalisdesign.com/#page-services</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Service Details: 3D Modeling -->
+  <url>
+    <loc>https://digitalisdesign.com/#acc-3d</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Service Details: Architecture -->
+  <url>
+    <loc>https://digitalisdesign.com/#acc-arch</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Service Details: Art -->
+  <url>
+    <loc>https://digitalisdesign.com/#acc-art</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Service Details: Engineering -->
+  <url>
+    <loc>https://digitalisdesign.com/#acc-engineering</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Service Details: Graphic Design -->
+  <url>
+    <loc>https://digitalisdesign.com/#acc-graphic</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Service Details: Industrial Design -->
+  <url>
+    <loc>https://digitalisdesign.com/#acc-industrial</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Service Details: Medical -->
+  <url>
+    <loc>https://digitalisdesign.com/#acc-medical</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Products -->
+  <url>
+    <loc>https://digitalisdesign.com/#page-product</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://digitalisdesign.com/#page-blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Testimonials -->
+  <url>
+    <loc>https://digitalisdesign.com/#page-testimonials</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://digitalisdesign.com/#page-contact</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
